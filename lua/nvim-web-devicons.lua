@@ -1321,13 +1321,13 @@ local icons_by_file_extension = {
     name = "Tex",
   },
   ["tf"] = {
-    icon = "",
+    icon = "",
     color = "#5F43E9",
     cterm_color = "93",
     name = "Terraform",
   },
   ["tfvars"] = {
-    icon = "",
+    icon = "",
     color = "#5F43E9",
     cterm_color = "93",
     name = "TFVars",
